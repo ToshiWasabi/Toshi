@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/ToshiWasabi/Toshi/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[My image](IMG_0352.JPG)
+![Image](src)(IMG_0352.JPG)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

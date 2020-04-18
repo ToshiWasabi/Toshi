@@ -18,7 +18,9 @@ layout: default
     <div style="width: 50%;" class="p-2">
       <div class="position-relative" style="padding-bottom: 133.333%;">
         <div class="position-absolute" style="right:0; left:0; top:0; bottom:0;">
-          <img src="{{post.image}}" class="img-cover h-100 w-100" />
+          <a href="{{ post.url | relative_url }}">
+            <img src="{{post.image}}" class="img-cover h-100 w-100" />
+          </a>
         </div>
       </div>
       <div class="m-2">

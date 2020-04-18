@@ -20,7 +20,7 @@
 
 title: Bowl of Hygieia 
 description: Plants and Toshi bear
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Toshi" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: bowlofHygieia 
 # twitter_username: jekyllrb

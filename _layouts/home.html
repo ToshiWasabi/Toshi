@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="home">
+<div class="home mb-5">
   {%- if page.title -%}
   <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
@@ -10,27 +10,27 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-  <div class="text-center">
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+  <div class="text-center text-uppercase my-5">
+    {{ page.list_title | default: "Posts" }}
   </div>
-  <ul class="post-list">
+  <div class="d-flex flex-wrap justify-content-center">
     {%- for post in site.posts -%}
-    <li>
-      <div>
-        <img src="{{post.image}}" />
+    <div style="width: 50%;" class="p-2">
+      <div class="position-relative" style="padding-bottom: 133.333%;">
+        <div class="position-absolute" style="right:0; left:0; top:0; bottom:0;">
+          <img src="{{post.image}}" class="img-cover h-100 w-100" />
+        </div>
       </div>
-      <h3 class="h4">
-        <a class="post-link text-dark text-decoration-none" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
-      <span class="post-meta">{{ post.date | date:"%b %-d, %Y"}}</span>
-      {%- if site.show_excerpts -%}
-      {{ post.excerpt }}
-      {%- endif -%}
-    </li>
+      <div class="m-2">
+        <h2 class="h5 font-weight-normal">
+          <a class="text-dark text-decoration-none" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h2>
+        <span class="post-meta">{{ post.date | date:"%b %-d, %Y"}}</span>
+      </div>
+    </div>
     {%- endfor -%}
-  </ul>
+  </div>
   {%- endif -%}
-
 </div>

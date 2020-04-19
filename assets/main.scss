@@ -17,6 +17,21 @@
   src: url("BryndanWrite.ttf");
 }
 
+@font-face {
+  font-family: "MoonTime";
+  src: url("MoonTime-Regular.ttf");
+}
+
 .font-bryndan-write {
   font-family: "BryndanWrite";
+}
+
+.font-moon-time {
+  font-family: "MoonTime";
+}
+
+.signature {
+  font-family: "MoonTime";
+  font-size: 60px;
+  color: rgb(255, 51, 51);
 }

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: All things Merry
 permalink: /about/
 ---
 Hi. Welcome to my page. 

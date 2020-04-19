@@ -12,6 +12,6 @@ Self-care is very crucial to our health and well-being, especially in this moder
 As someone who has struggled with self-care, I can attest that planting has helped me overcome my anxieties. It was during my trip to Bangkok, Thailand that inspired me to try planting. I was astounded with their fresh herbs and ornamental plants – the experience was calming and relaxing as I strolled around looking at different plants. When I came home, I started planting, since then, I’ve never been happier and focused. 
 This wonderful experience is exactly what I want to share with you. Please join me in this halcyon adventure of planting. Together, let us discover anything that there is to learn about plants while preserving or achieving ideal self-care.  I cannot wait to start this exciting journey with you! 
 
-                                                                                                    Love, 
-                                                                                                    Merry.
+                                                                                            Love, 
+                                                                                            Merry.
 

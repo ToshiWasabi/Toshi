@@ -13,6 +13,11 @@
 }
 
 @font-face {
+  font-family: "LibreBaskerville";
+  src: url("LibreBaskerville-Regular.ttf");
+}
+
+@font-face {
   font-family: "BryndanWrite";
   src: url("BryndanWrite.ttf");
 }
@@ -34,4 +39,8 @@
   font-family: "MoonTime";
   font-size: 60px;
   color: rgb(255, 51, 51);
+}
+
+.post {
+  font-family: "LibreBaskerville";
 }

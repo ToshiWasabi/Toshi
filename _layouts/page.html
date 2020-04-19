@@ -1,14 +1,11 @@
 ---
 layout: default
 ---
-<article class="post mt-5">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-
-  <div class="post-content">
+<article class="post">
+  <div class="text-center my-5">
+    <h1 class="h3">{{page.title | escape}}</h1>
+  </div>
+  <div>
     {{ content }}
   </div>
-
 </article>

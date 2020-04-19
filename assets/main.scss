@@ -8,8 +8,9 @@
   object-fit: cover;
 }
 
-.font-sacremento {
-  font-family: "Sacramento", cursive;
+@font-face {
+  font-family: "Sacramento";
+  src: url("Sacramento-Regular.ttf");
 }
 
 @font-face {
@@ -27,6 +28,10 @@
   src: url("MoonTime-Regular.ttf");
 }
 
+.font-sacremento {
+  font-family: "Sacramento", cursive;
+}
+
 .font-bryndan-write {
   font-family: "BryndanWrite";
 }
@@ -38,7 +43,7 @@
 .signature {
   font-family: "MoonTime";
   font-size: 60px;
-  color: rgb(255, 51, 51);
+  color: #cdb1b1;
 }
 
 .post {

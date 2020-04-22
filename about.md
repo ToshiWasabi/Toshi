@@ -3,7 +3,8 @@ layout: page
 title: About 
 permalink: /about/
 ---
-![ME](images/image1.jpeg)
+![ME]({{'/images/toshi.jpg' | relative_url}}){:class="img-center w-50"}
+
 Hey there, I’m Merry. Yes, you read that right, Merry as in Merry Christmas. I guess my parents decided to name me that because I’ve always been jolly since I was little. I’m 25 years old and currently studying BS Pharmacy at a university in the Philippines.
 
 And since I’ve mentioned Pharmacy, this brings us to a quick background on my username: Bowl of Hygieia pronounced as hahy-jee-uh. If you google Bowl of Hygieia you’d find out that it is one of the most important symbols of Pharmacy and medicine in western countries. While Hygieia is the name of the Greek goddess of health hygiene. However, there’s a quite different meaning it has for me when I chose this as my username.

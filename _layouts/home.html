@@ -23,14 +23,12 @@ layout: default
               </a>
             </div>
           </div>
-          <div class="mt-2">
-            <h2 class="h5 font-weight-normal">
-              <a class="text-dark text-decoration-none" href="{{ post.url | relative_url }}">
-                {{ post.title | escape }}
-              </a>
-            </h2>
-            <span class="post-meta">{{ post.date | date:"%b %-d, %Y"}}</span>
-          </div>
+          <div class="text-muted text-center small my-3">{{ post.date | date:"%b %-d, %Y"}}</div>
+          <h2 class="h5 font-weight-normal text-center">
+            <a class="text-dark text-decoration-none" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h2>
         </div>
         {%- endfor -%}
       </div>

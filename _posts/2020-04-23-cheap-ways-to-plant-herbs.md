@@ -16,8 +16,11 @@ Yes, I have my own herb garden at my home in an urban area – which can be quit
 However, there are important factors to consider before starting an herb garden, especially when it’s in an urban dwelling and these are the ff:
 
 **Goal.** Determine your objectives for your herb garden. What do you need it for? Is it for aesthetic? Food? Or just a hobby? By knowing your goals, it would be easier for you to choose what herbs to plant.
+
 **Direct Sunlight.** Choose a spot in your home that welcomes a fair amount of sunlight for your herbs. Search for the preferred temperature of your chosen herbs.
+
 **Space** Make sure that your selected area for herb garden is enough to accommodate the herbs you’re planning to plant.
+
 **Pots and Soil.** It doesn’t necessarily have to be pots and soil; you can explore creative ways to use recyclables such as used cans or even plastic bottles to serve as your planters and used ground coffee as your soil – which I’ll share with you later. Keep reading.
 
 Now that you know the crucial things to consider in herb gardening, let’s proceed with the cheap yet effective ways to plant herbs. First off, my example type of herb in this blog post is going to be Basil – which I started planting over a year ago. When it comes to planting Basil and other herbs with different varieties, it is important to know their qualities – this way it would be easier for you to decide what type of it are you going to need. In my case, I chose holy basil.

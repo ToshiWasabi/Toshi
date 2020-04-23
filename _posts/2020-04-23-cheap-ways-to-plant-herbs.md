@@ -3,6 +3,7 @@ layout: post
 title: Cheap ways to plant herbs
 categories: plants
 image: /images/herbs1.png
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
 
 ![Herbs]({{'/images/herbs1.png' | relative_url}}){:class="img-center max-width-400"}

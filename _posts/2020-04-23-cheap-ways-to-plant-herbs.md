@@ -45,7 +45,6 @@ In planting the holy basil seeds, make sure to fill with soil/coffee grounds at 
 **Fourth Step:** Spray the Seeds with Water Every Day
 
 Make sure to spray the seeds at least twice a day, every day.
-[video]
 
 **Fifth Step:** Wait for the Sprouts
 

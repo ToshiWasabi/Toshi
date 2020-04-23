@@ -42,23 +42,18 @@ In planting the holy basil seeds, make sure to fill with soil/coffee grounds at 
 
 Make sure to spray the seeds at least twice a day, every day.
 [video]
-https://photos.app.goo.gl/d6NbpacgxrNpNdnL7
 
 **Fifth Step:** Wait for the Sprouts
 
 When the seeds start sprouting, you can already remove the lid cover. Then continue to spray the sprouts at least twice a day, every day, until it becomes a full-grown herb plant.
-https://photos.app.goo.gl/9aCM6Jg6Apnsrso29
 
 **Sixth Step:** Check for the Nodes
 
 Nodes are part of the plant stem where leaves emerge. Once, the herb develops these nodes, this indicates that it is ready for harvesting.
-https://photos.app.goo.gl/nZfXrsJszY3Dp1nX7
 
 **Last Step:** Harvest
 
 Finally, harvesting! Cut a handful leaves of the Holy Basil then use it to garnish your morning omelettes, mouth-watering chicken steak, or your favorite pesto for a satisfying and healthy treat. Enjoy!
-
-https://photos.app.goo.gl/Troq4L6zyC3eUsMq6
 
 ![More herbs]({{'/images/herbs2.png' | relative_url}}){:class="img-responsive"}
 ![Herbs and food]({{'/images/herbs-in-food.png' | relative_url}}){:class="img-responsive"}

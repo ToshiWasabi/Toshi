@@ -1,11 +1,15 @@
 ---
 layout: default
 ---
-<article class="post">
-  <div class="text-center my-5">
-    <h1 class="h3">{{page.title | escape}}</h1>
+<div class="row">
+  <div class="col-12">
+    <article class="post">
+      <div class="text-center my-5">
+        <h1 class="h3">{{page.title | escape}}</h1>
+      </div>
+      <div class="mb-5">
+        {{ content }}
+      </div>
+    </article>
   </div>
-  <div class="mb-5">
-    {{ content }}
-  </div>
-</article>
+</div>

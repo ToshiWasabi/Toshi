@@ -3,9 +3,7 @@ layout: page
 title: About 
 permalink: /about/
 ---
-![ME]({{'/images/merry_profile.jpg' | relative_url}}){:class="img-responsive"}
-
-
+![ME]({{'/images/merry_profile.jpg' | relative_url}}){:class="img-center max-width-250"}
 
 Hey there, I’m Merry. Yes, you read that right, Merry as in Merry Christmas. I guess my parents decided to name me that because I’ve always been jolly since I was little. I’m 25 years old and currently studying BS Pharmacy at a university in the Philippines.
 

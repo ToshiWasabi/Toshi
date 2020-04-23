@@ -5,7 +5,7 @@ categories: plants
 image: /images/herbs1.png
 ---
 
-![Herbs]({{'/images/herbs1.png' | relative_url}}){:class="img-responsive"}
+![Herbs]({{'/images/herbs1.png' | relative_url}}){:class="img-center max-width-400"}
 
 Hi, seedlings! I hope you don’t mind me calling you seedlings, because I think it’s cute and like a young plant, I hope to raise you well with knowledge on everything you need to learn about the world of planting. Teehee.
 

@@ -6,7 +6,9 @@ image: /images/herbs1.png
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
 
-![Herbs]({{'/images/herbs1.png' | relative_url}}){:class="img-center max-width-400"}
+{:refdef: class="text-center"}
+![Herbs]({{'/images/herbs1.png' | relative_url}}){:class="max-width-400"}
+{: refdef}
 
 Hi, seedlings! I hope you don’t mind me calling you seedlings, because I think it’s cute and like a young plant, I hope to raise you well with knowledge on everything you need to learn about the world of planting. Teehee.
 
@@ -58,7 +60,7 @@ Nodes are part of the plant stem where leaves emerge. Once, the herb develops th
 
 Finally, harvesting! Cut a handful leaves of the Holy Basil then use it to garnish your morning omelettes, mouth-watering chicken steak, or your favorite pesto for a satisfying and healthy treat. Enjoy!
 
-{:refdef: .text-center}
+{:refdef: class="text-center"}
 ![More herbs]({{'/images/herbs2.png' | relative_url}}){:class="max-width-250 m-2"}
 ![Herbs and food]({{'/images/herbs-in-food.png' | relative_url}}){:class="max-width-250 m-2"}
 {: refdef}

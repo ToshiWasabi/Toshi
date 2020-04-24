@@ -58,8 +58,10 @@ Nodes are part of the plant stem where leaves emerge. Once, the herb develops th
 
 Finally, harvesting! Cut a handful leaves of the Holy Basil then use it to garnish your morning omelettes, mouth-watering chicken steak, or your favorite pesto for a satisfying and healthy treat. Enjoy!
 
+{:refdef: .text-center}
 ![More herbs]({{'/images/herbs2.png' | relative_url}}){:class="max-width-250 m-2"}
 ![Herbs and food]({{'/images/herbs-in-food.png' | relative_url}}){:class="max-width-250 m-2"}
+{: refdef}
 
 There you have it! Those are the cheap ways I did in planting my holy basil. I hope this enlightens or inspires you that planting doesn’t have to be expensive – you just need to be creative. 😊 😊 😊
 

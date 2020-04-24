@@ -20,7 +20,7 @@ However, there are important factors to consider before starting an herb garden,
 
 **Goal.** Determine your objectives for your herb garden. What do you need it for? Is it for aesthetic? Food? Or just a hobby? By knowing your goals, it would be easier for you to choose what herbs to plant.
 
-**Direct Sunlight.** Choose a spot in your home that welcomes a fair amount of sunlight for your herbs. Search for the preferred temperature of your chosen herbs.
+**Direct Sunlight.** Choose a spot in your home that welcomes a fair amount of sunlight for your herbs. Search for the preferred temperature of your chosen herbs, online.
 
 **Space.** Make sure that your selected area for herb garden is enough to accommodate the herbs you’re planning to plant.
 

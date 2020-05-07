@@ -9,7 +9,7 @@ permalink: /about/
 
 Hey there, I’m Merry. Yes, you read that right, Merry as in Merry Christmas. I guess my parents decided to name me that because I’ve always been jolly since I was little. I’m 25 years old and currently studying BS Pharmacy at a university in the Philippines.
 
-And since I’ve mentioned Pharmacy, this brings us to a quick background on my username: Bowl of Hygieia pronounced as hahy-jee-uh. If you google Bowl of Hygieia you’d find out that it is one of the most important symbols of Pharmacy and medicine in western countries. While Hygieia is the name of the Greek goddess of health hygiene. However, there’s a quite different meaning it has for me when I chose this as my username.
+And since I’ve mentioned Pharmacy, this brings us to a quick background on my Instagram username : Bowl of Hygieia pronounced as hahy-jee-uh. If you google Bowl of Hygieia you’d find out that it is one of the most important symbols of Pharmacy and medicine in western countries. While Hygieia is the name of the Greek goddess of health hygiene. However, there’s a quite different meaning it has for me when I chose this as my username.
 
 Bowl serves as a container –something that can hold things. As for Hygieia which translates to hygiene, conveys self-care. I chose “Bowl of Hygieia” because I intend to use this page as a “bowl” of resources that will (hopefully) help people attain optimal self-care.
 

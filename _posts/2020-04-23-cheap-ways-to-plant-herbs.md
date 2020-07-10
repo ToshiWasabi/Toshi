@@ -2,7 +2,7 @@
 layout: post
 title: Cheap ways to plant herbs
 categories: plants
-image: /images/herbs1.jpg
+image: /images/herb2.jpg
 summary: Dreaming of having your own herb garden? Here are some affordable ways to plant those herbs.
 ---
 

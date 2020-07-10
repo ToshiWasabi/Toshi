@@ -24,7 +24,7 @@ There are myriad of health benefits that bedroom plants can bring; Aside from th
 Things to take note: 
 -	Do not touch the sap or the secretion of the plant. It is poisonous, which can cause skin irritation and swelling of the throat. Keep it away from the reach of children and pets. 
 -	Research on safety and first aid measures you can do for dumb cane poisoning. 
-![Dumbcane]({{'/images/Dumbcane.pmg' | relative_url}}){:class="img-responsive"}
+![Dumbcane]({{'/images/Dumbcane.png' | relative_url}}){:class="img-responsive"}
 
 2.	Epipremnum aureum a.k.a “Devil’s Ivy”
 -	Most tolerant and adaptable indoor plant. 

@@ -3,7 +3,7 @@ layout: post
 title: Best indoor plants to have in your room
 categories: plants
 image: /images/herbs1.jpg
-summary: Best indoor plants to have in your room
+summary: There are myriad of health benefits that bedroom plants can bring; Aside from their air-purifying properties, they can also help alleviate stress and promote good sleep.
 ---
 
 Hi, Seedlings! It has been a while since I shared my first blog. How are you doing? Hope you are all safe. Despite the terrible things happening around the world and as we continue to brave this pandemic, I am praying that you still manage to take care of yourselves. 

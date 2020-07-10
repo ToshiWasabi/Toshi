@@ -23,6 +23,7 @@ There are myriad of health benefits that bedroom plants can bring; Aside from th
 -	Easy to take care and maintain since it only requires partial shade of sunlight, makes it the perfect indoor plant.
 
 Things to take note: 
+
 -	Do not touch the sap or the secretion of the plant. It is poisonous, which can cause skin irritation and swelling of the throat. Keep it away from the reach of children and pets. 
 -	Research on safety and first aid measures you can do for dumb cane poisoning. 
 

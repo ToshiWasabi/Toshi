@@ -44,5 +44,5 @@ These are just three of my favorite bedroom plants that I highly recommend for p
 
 Enjoy! 
 
-<div class="mt-4">Love,</div>
+<div class="mt-5">Love,</div>
 <div class="signature">Merry</div>

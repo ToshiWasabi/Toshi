@@ -26,7 +26,7 @@ Things to take note:
 -	Research on safety and first aid measures you can do for dumb cane poisoning. 
 ![Dumbcane]({{'/images/Dumbcane.png' | relative_url}}){:class="img-responsive"}
 
-2.	Epipremnum aureum a.k.a “Devil’s Ivy”
+2.	Epipremnum aureum a.k.a “Devil’s Ivy or Golden Pothos”
 -	Most tolerant and adaptable indoor plant. 
 -	Endures low light-conditioned room and enjoys high humidity. 
 -	Removes harmful pollutants in the air such as benzene, carbon monoxide, xylene, etc. 
@@ -43,6 +43,8 @@ Things to take note:
 These are just three of my favorite bedroom plants that I highly recommend for plant parents like me. However, you can always search for other amazing house plants online, which you think is the most suitable plant in your room. You can also look for creative ways on how you can style your room with these plants (See: Pinterest). I hope this listicle will somehow inspire you to plant and de-stress. 😊
 
 Enjoy! 
+
+
 
 <div>Love,</div>
 <div class="signature">Merry</div>

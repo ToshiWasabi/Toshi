@@ -21,24 +21,31 @@ There are myriad of health benefits that bedroom plants can bring; Aside from th
 -	Absorbs Carbon Dioxide and purifies air efficiently. 
 -	Adds a tropical look to your room. 
 -	Easy to take care and maintain since it only requires partial shade of sunlight, makes it the perfect indoor plant.
+
 Things to take note: 
 -	Do not touch the sap or the secretion of the plant. It is poisonous, which can cause skin irritation and swelling of the throat. Keep it away from the reach of children and pets. 
 -	Research on safety and first aid measures you can do for dumb cane poisoning. 
+
 ![Dumbcane]({{'/images/Dumbcane.png' | relative_url}}){:class="img-responsive"}
+
 
 2.	Epipremnum aureum a.k.a “Devil’s Ivy or Golden Pothos”
 -	Most tolerant and adaptable indoor plant. 
 -	Endures low light-conditioned room and enjoys high humidity. 
 -	Removes harmful pollutants in the air such as benzene, carbon monoxide, xylene, etc. 
 -	Creates a refreshing look in your room. Looks better when hanged in your wall. 
+
 ![devilsivy]({{'/images/devilsivy.png' | relative_url}}){:class="img-responsive"}
+
 
 3.	Aloe barbadensis miller aka “Aloe vera”
 -	Promotes calm and restful slumber by producing oxygen at night.
 -	Makes the best indoor plant as it helps cure minor cuts, burns, dry skin, and insect bites. 
 -	Edible and offers nutritious health benefits. 
 -	Requires little watering but needs a fair amount of light. 
+
 ![aloevera]({{'/images/aloevera.png' | relative_url}}){:class="img-responsive"}
+
 
 These are just three of my favorite bedroom plants that I highly recommend for plant parents like me. However, you can always search for other amazing house plants online, which you think is the most suitable plant in your room. You can also look for creative ways on how you can style your room with these plants (See: Pinterest). I hope this listicle will somehow inspire you to plant and de-stress. 😊
 

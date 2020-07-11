@@ -30,7 +30,7 @@ Things to take note:
 ![Dumbcane]({{'/images/Dumbcane.png' | relative_url}}){:class="img-responsive"}
 
 
-2.	Epipremnum aureum a.k.a “Devil’s Ivy or Golden Pothos”
+2. 	Epipremnum aureum a.k.a “Devil’s Ivy or Golden Pothos”
 -	Most tolerant and adaptable indoor plant. 
 -	Endures low light-conditioned room and enjoys high humidity. 
 -	Removes harmful pollutants in the air such as benzene, carbon monoxide, xylene, etc. 
@@ -39,7 +39,7 @@ Things to take note:
 ![devilsivy]({{'/images/devilsivy.png' | relative_url}}){:class="img-responsive"}
 
 
-3.	Aloe barbadensis miller aka “Aloe vera”
+3.  Aloe barbadensis miller aka “Aloe vera”
 -	Promotes calm and restful slumber by producing oxygen at night.
 -	Makes the best indoor plant as it helps cure minor cuts, burns, dry skin, and insect bites. 
 -	Edible and offers nutritious health benefits. 

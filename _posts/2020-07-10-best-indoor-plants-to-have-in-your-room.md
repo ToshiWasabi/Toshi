@@ -40,7 +40,7 @@ Things to take note:
 - Removes harmful pollutants in the air such as benzene, carbon monoxide, xylene, etc.
 - Creates a refreshing look in your room. Looks better when hanged in your wall.
 
-<div class="d-flex justify-content-center align-items-start">
+<div class="d-flex justify-content-center align-items-start flex-wrap">
 <img class="img-responsive max-width-300 m-3" src="/images/devilsivy.png" title="devilsivy" />
 <img class="img-responsive max-width-300 m-3" src="/images/pothos1.jpg" title="pothos" />
 </div>
@@ -52,7 +52,7 @@ Things to take note:
 - Edible and offers nutritious health benefits.
 - Requires little watering but needs a fair amount of light.
 
-<div class="d-flex justify-content-center align-items-start">
+<div class="d-flex justify-content-center align-items-start flex-wrap">
 <img class="img-responsive max-width-300 m-3" src="/images/aloevera.png" title="aloevera" />
 <img class="img-responsive max-width-300 m-3" src="/images/aloe2.jpg" title="aloevera" />
 </div>

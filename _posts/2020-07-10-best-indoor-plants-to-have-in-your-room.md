@@ -28,7 +28,7 @@ Things to take note:
 - Do not touch the sap or the secretion of the plant. It is poisonous, which can cause skin irritation and swelling of the throat. Keep it away from the reach of children and pets.
 - Research on safety and first aid measures you can do for dumb cane poisoning.
 
-<div class="d-flex justify-content-center">
+<div class="d-flex justify-content-center align-items-start">
 <img class="img-responsive max-width-300 m-3" src="/images/Dumbcane.png" title="Dumbcane" />
 <img class="img-responsive max-width-300 m-3" src="/images/dumbcane2.jpg" title="Dumbcane" />
 </div>
@@ -40,9 +40,7 @@ Things to take note:
 - Removes harmful pollutants in the air such as benzene, carbon monoxide, xylene, etc.
 - Creates a refreshing look in your room. Looks better when hanged in your wall.
 
-<!-- ![devilsivy]({{'/images/devilsivy.png' | relative_url}}){:class="img-responsive"} ![pothos]({{'/images/pothos.JPG' | relative_url}}){:class="img-responsive"} -->
-
-<div class="d-flex justify-content-center">
+<div class="d-flex justify-content-center align-items-start">
 <img class="img-responsive max-width-300 m-3" src="/images/devilsivy.png" title="devilsivy" />
 <img class="img-responsive max-width-300 m-3" src="/images/pothos1.jpg" title="pothos" />
 </div>

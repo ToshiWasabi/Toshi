@@ -16,7 +16,8 @@ The bedroom has always been (if not one of) the first place most of us go to whe
 
 There are myriad of health benefits that bedroom plants can bring; Aside from their air-purifying properties, they can also help alleviate stress and promote good sleep. However, it is essential to consider what plants to put in your room. To help you decide what plants would perfectly match your room, here is to give you my Top 3-bedroom plants and their perks: 
 
-1.	Dieffenbachia amoena a.k.a “Dumb Cane”
+	**Dieffenbachia amoena a.k.a “Dumb Cane”
+ 
 -	One of the most common and popular variegated (or multi-colored) houseplants. 
 -	Absorbs Carbon Dioxide and purifies air efficiently. 
 -	Adds a tropical look to your room. 
@@ -30,7 +31,8 @@ Things to take note:
 ![Dumbcane]({{'/images/Dumbcane.png' | relative_url}}){:class="img-responsive"}
 
 
-2. 	Epipremnum aureum a.k.a “Devil’s Ivy or Golden Pothos”
+ **Epipremnum aureum a.k.a “Devil’s Ivy or Golden Pothos”
+ 
 -	Most tolerant and adaptable indoor plant. 
 -	Endures low light-conditioned room and enjoys high humidity. 
 -	Removes harmful pollutants in the air such as benzene, carbon monoxide, xylene, etc. 
@@ -39,7 +41,8 @@ Things to take note:
 ![devilsivy]({{'/images/devilsivy.png' | relative_url}}){:class="img-responsive"}
 
 
-3.  Aloe barbadensis miller aka “Aloe vera”
+**Aloe barbadensis miller aka “Aloe vera”
+
 -	Promotes calm and restful slumber by producing oxygen at night.
 -	Makes the best indoor plant as it helps cure minor cuts, burns, dry skin, and insect bites. 
 -	Edible and offers nutritious health benefits. 

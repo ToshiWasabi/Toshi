@@ -29,8 +29,8 @@ Things to take note:
 - Research on safety and first aid measures you can do for dumb cane poisoning.
 
 <div class="d-flex justify-content-center">
-<img class="m-2" src="/images/Dumbcane.png" title="Dumbcane" width="300"  />
-<img class="m-2" src="/images/dumbcane2.jpg" title="Dumbcane" width="300"  />
+<img class="img-responsive" src="/images/Dumbcane.png" title="Dumbcane" />
+<img class="img-responsive" src="/images/dumbcane2.jpg" title="Dumbcane" />
 </div>
 
 **_Epipremnum aureum a.k.a “Devil’s Ivy" or "Golden Pothos”_**

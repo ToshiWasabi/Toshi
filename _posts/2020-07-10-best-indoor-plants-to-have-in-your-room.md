@@ -52,7 +52,10 @@ Things to take note:
 - Edible and offers nutritious health benefits.
 - Requires little watering but needs a fair amount of light.
 
-![aloevera]({{'/images/aloevera.png' | relative_url}}){:class="img-responsive"} ![aloe]({{'/images/aloe.JPG' | relative_url}}){:class="img-responsive"}
+<div class="d-flex justify-content-center align-items-start">
+<img class="img-responsive max-width-300 m-3" src="/images/aloevera.png" title="aloevera" />
+<img class="img-responsive max-width-300 m-3" src="/images/aloe2.jpg" title="aloevera" />
+</div>
 
 These are just three of my favorite bedroom plants that I highly recommend for plant parents like me. However, you can always search for other amazing house plants online, which you think is the most suitable plant in your room. You can also look for creative ways on how you can style your room with these plants (See: Pinterest). I hope this listicle will somehow inspire you to plant and de-stress. 😊
 

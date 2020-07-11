@@ -28,10 +28,8 @@ Things to take note:
 - Do not touch the sap or the secretion of the plant. It is poisonous, which can cause skin irritation and swelling of the throat. Keep it away from the reach of children and pets.
 - Research on safety and first aid measures you can do for dumb cane poisoning.
 
-<!-- ![Dumbcane]({{'/images/Dumbcane.png' | relative_url}}){:class="img-responsive"} ![cane]({{'/images/cane.JPG' | relative_url}}){:class="img-responsive"} -->
-
 <img src="/images/Dumbcane.png" title="Dumbcane" width="300"  />
-<img src="/images/cane.npg" title="Dumbcane" width="300"  />
+<img src="/images/dumbcane2.jpg" title="Dumbcane" width="300"  />
 
 **_Epipremnum aureum a.k.a “Devil’s Ivy" or "Golden Pothos”_**
 

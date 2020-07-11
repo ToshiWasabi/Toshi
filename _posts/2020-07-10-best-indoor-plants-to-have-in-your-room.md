@@ -40,7 +40,12 @@ Things to take note:
 - Removes harmful pollutants in the air such as benzene, carbon monoxide, xylene, etc.
 - Creates a refreshing look in your room. Looks better when hanged in your wall.
 
-![devilsivy]({{'/images/devilsivy.png' | relative_url}}){:class="img-responsive"} ![pothos]({{'/images/pothos.JPG' | relative_url}}){:class="img-responsive"}
+<!-- ![devilsivy]({{'/images/devilsivy.png' | relative_url}}){:class="img-responsive"} ![pothos]({{'/images/pothos.JPG' | relative_url}}){:class="img-responsive"} -->
+
+<div class="d-flex justify-content-center">
+<img class="img-responsive max-width-300 m-3" src="/images/devilsivy.png" title="devilsivy" />
+<img class="img-responsive max-width-300 m-3" src="/images/pothos.jpg" title="pothos" />
+</div>
 
 **_Aloe barbadensis miller aka “Aloe vera”_**
 

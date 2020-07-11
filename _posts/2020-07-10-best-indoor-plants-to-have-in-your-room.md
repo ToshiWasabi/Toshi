@@ -28,7 +28,7 @@ Things to take note:
 - Do not touch the sap or the secretion of the plant. It is poisonous, which can cause skin irritation and swelling of the throat. Keep it away from the reach of children and pets.
 - Research on safety and first aid measures you can do for dumb cane poisoning.
 
-<div class="d-flex justify-content-center align-items-start">
+<div class="d-flex justify-content-center align-items-start flex-wrap">
 <img class="img-responsive max-width-300 m-3" src="/images/Dumbcane.png" title="Dumbcane" />
 <img class="img-responsive max-width-300 m-3" src="/images/dumbcane2.jpg" title="Dumbcane" />
 </div>

@@ -44,7 +44,7 @@ Things to take note:
 
 <div class="d-flex justify-content-center">
 <img class="img-responsive max-width-300 m-3" src="/images/devilsivy.png" title="devilsivy" />
-<img class="img-responsive max-width-300 m-3" src="/images/pothos.JPG" title="pothos" />
+<img class="img-responsive max-width-300 m-3" src="/images/pothos1.jpg" title="pothos" />
 </div>
 
 **_Aloe barbadensis miller aka “Aloe vera”_**
